@@ -1,4 +1,6 @@
 # Social_Media_Engagement_Analysis
+
+![Feature Importance](feature_importance.png)
 Predicting social media engagement and uncovering key drivers using feature engineering, EDA, and a Random Forest model.
 
 This project explores a rich, diverse social media dataset to understand what drives engagement. The analysis includes:
